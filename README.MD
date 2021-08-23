@@ -2,4 +2,4 @@
 LockeBot is an easy to use discord bot!
 
 # Contact Information
-To contact me message me at @chilling#0101
+To contact me message me at @iichigo#7777
